@@ -7,7 +7,9 @@ categories: personal
 This was a post that I wrote in 21 June 2010.
 
 Its a wonder to see how little has changed.
-----------------
+
+-
+
 I am fortunate to be one of those who love programming and get to do it as my day job. But why? Why do people who love programming love it ?
 
 I guess it just a desire to create! To keep learning! It's fun, To make the world a better place!
